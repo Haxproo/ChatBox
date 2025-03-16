@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.hax.chatbox" />
+                  <option name="mobileSdkAppId" value="1:720243575349:android:ef324a60052f37e8613f7c" />
+                  <option name="projectId" value="haxchatbox" />
+                  <option name="projectNumber" value="720243575349" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

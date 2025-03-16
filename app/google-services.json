@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "firebase_url": "https://chatbox-demo.firebaseio.com",
+    "project_id": "chatbox-demo",
+    "storage_bucket": "chatbox-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abc123def456",
+        "android_client_info": {
+          "package_name": "com.hax.chatbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyKeyForCompilationOnly12345"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}{
+  "project_info": {
+    "project_number": "720243575349",
+    "project_id": "haxchatbox",
+    "storage_bucket": "haxchatbox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720243575349:android:ef324a60052f37e8613f7c",
+        "android_client_info": {
+          "package_name": "com.hax.chatbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-jVqsEsEi4CZ3HsF_z2OGiIaH1rALlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
